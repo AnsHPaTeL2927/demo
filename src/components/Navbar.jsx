@@ -1,11 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const Navbar = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <>
+      <div className="container bg-black w-full h-10 lg:w-full">
+        <div className=""></div>
+      </div>
+    </>
+  );
+};
 
-export default Navbar
+export default Navbar;
